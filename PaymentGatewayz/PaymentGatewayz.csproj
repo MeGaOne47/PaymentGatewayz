@@ -177,10 +177,18 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Danhmuc\DanhmucPartial.cshtml" />
+    <Content Include="Views\GioHang\GioHang.cshtml" />
+    <Content Include="Views\GioHang\GioHangPartial.cshtml" />
+    <Content Include="Views\GioHang\SuaGioHang.cshtml" />
+    <Content Include="Views\Sanpham\nhchanelpartial.cshtml" />
+    <Content Include="Views\Sanpham\nhdiorpartial.cshtml" />
+    <Content Include="Views\Sanpham\nhguccipartial.cshtml" />
+    <Content Include="Views\Sanpham\Danhsachsanpham.cshtml" />
+    <Content Include="Views\Sanpham\xemchitiet.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

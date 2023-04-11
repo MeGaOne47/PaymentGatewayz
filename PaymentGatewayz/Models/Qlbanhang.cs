@@ -15,7 +15,7 @@ namespace PaymentGatewayz.Models
         public virtual DbSet<Hangsanxuat> Hangsanxuats { get; set; }
         public virtual DbSet<Thuonghieu> Thuonghieus { get; set; }
         public virtual DbSet<Sanpham> Sanphams { get; set; }
-        /*public virtual DbSet<ThanhToan> ThanhToans { get; set; }*/
+        public virtual DbSet<ThanhToan> ThanhToans { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

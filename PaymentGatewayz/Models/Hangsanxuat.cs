@@ -1,6 +1,6 @@
 ﻿namespace PaymentGatewayz.Models
 {
-    using PaymentGateways.Models;
+    using PaymentGatewayz.Models;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
